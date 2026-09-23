@@ -1,0 +1,17 @@
+Copyright (c) 2026 Walker. All rights reserved.
+
+This software is proprietary. Permission is granted to download and use the
+released binaries free of charge for personal use.
+
+You may not copy, modify, redistribute, sell, sublicense, decompile, reverse
+engineer or disassemble the software, in whole or in part, without prior
+written permission from the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+Third-party components (yt-dlp, FFmpeg, Deno) are not distributed with this
+software and remain under their respective licenses.
