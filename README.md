@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshot.png" width="460" alt="Walker Media Downloader">
+  <img src="screenshot-v151.png" width="460" alt="Walker Media Downloader">
 </p>
 
 <h1 align="center">Walker Media Downloader</h1>
