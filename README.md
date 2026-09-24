@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="screenshot.png" width="420" alt="Walker Media Downloader">
+  <img src="screenshot.png" width="460" alt="Walker Media Downloader">
 </p>
 
 <h1 align="center">Walker Media Downloader</h1>
 
 <p align="center">
-  YouTube ve X (Twitter) videolarını MP4 ya da MP3 olarak indirmek için sade bir Windows uygulaması.
+  YouTube, X, Instagram, TikTok ve daha fazlasından video ve ses indirmek için sade bir Windows uygulaması.
 </p>
 
 <p align="center">
@@ -16,14 +16,26 @@
 
 ## Özellikler
 
-- YouTube, YouTube Shorts, YouTube Music ve X (Twitter) desteği
-- Video için 4K'ya kadar kalite seçimi, isteğe bağlı H.264 uyumluluk modu
-- Ses için MP3 (128–320 kbps), M4A, FLAC ve WAV
+**İndirme**
+- YouTube, X (Twitter), Instagram, TikTok, Twitch, Reddit, SoundCloud ve Facebook desteği
+- Video için 4K'ya kadar kalite, ses için MP3 (128–320 kbps), M4A, FLAC ve WAV
+- İndirme kuyruğu: indirme sürerken yeni bağlantılar sıraya eklenir
 - Videonun yalnızca belirli bir aralığını indirme
-- Playlist ve çoklu videolu X gönderileri
-- Giriş gerektiren içerikler için tarayıcı oturumu desteği (Firefox, Chrome, Edge, Brave)
-- Kapak görseli ve etiketler dosyaya otomatik eklenir
-- İndirme hızı, kalan süre ve görev çubuğunda ilerleme
+- Playlist ve çoklu videolu gönderiler
+- Altyazı (.srt) ve kapak resmi indirme
+
+**Dönüştürme**
+- Discord: videoyu 10, 50 veya 500 MB sınırına sığacak şekilde sıkıştırır
+- GIF: seçilen aralığı GIF olarak kaydeder
+- Kurgu: sabit kare hızlı dışa aktarma, CapCut ve Premiere'de ses kaymadan açılır
+
+**Kullanım kolaylığı**
+- Kopyalanan bağlantıları otomatik algılama
+- Tarayıcıdan sürükle bırak
+- Kapak resimli indirme geçmişi
+- İndirme bitince Windows bildirimi
+- Uygulama içi otomatik güncelleme
+- Türkçe ve İngilizce arayüz
 
 ## Kurulum
 
@@ -34,6 +46,8 @@
 
 > Windows "Bilgisayarınız korundu" uyarısı gösterirse **Ek bilgi → Yine de çalıştır** seçeneğini kullan. Uygulama henüz dijital olarak imzalı olmadığı için bu uyarı çıkar.
 
+> Instagram çoğu içerik için giriş istiyor. Bağlantı okunamazsa **Oturum** bölümünden Instagram hesabının açık olduğu tarayıcıyı seç.
+
 ## Gereksinimler
 
 - Windows 10 veya Windows 11 (64-bit)
@@ -41,7 +55,7 @@
 
 ## Kullanım
 
-1. Bir YouTube veya X bağlantısı yapıştır. Panoda bağlantı varsa uygulama açılırken otomatik doldurulur.
+1. Bir YouTube, X veya Instagram bağlantısı yapıştır. Panoda bağlantı varsa uygulama açılırken otomatik doldurulur.
 2. Video ya da Ses seç, kaliteyi belirle.
 3. **İndir**'e bas. Dosyalar varsayılan olarak `İndirilenler\Walker` klasörüne kaydedilir; bu klasör uygulamadan değiştirilebilir.
 
